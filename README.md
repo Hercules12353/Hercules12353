@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hercules12353
-- 👀 I’m interested in games,web development,music and marvel
+- 👀 I’m interested in games,web development,music
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫You can reach me through Discord - hercules123_
